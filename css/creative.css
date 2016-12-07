@@ -296,8 +296,8 @@ header .header-content .header-content-inner p {
 	
 .img-circle {
     border-radius: 50%;
-	height: 50%;
-	width: 50%;
+    height: 50%;
+    width: 50%;
 }
   border-color: white;
   -webkit-transition: all 0.35s;
