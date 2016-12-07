@@ -11,6 +11,9 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
+h1 {
+    text-align: center;
+}
 hr {
   border-color: #9e2106;
   border-width: 3px;
